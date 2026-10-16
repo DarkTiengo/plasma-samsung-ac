@@ -1,0 +1,14 @@
+{
+    "KPlugin": {
+        "Authors": [{ "Name": "tiengo" }],
+        "Category": "System Information",
+        "Description": "Controle do ar-condicionado Samsung via SmartThings (WindFree, modos, temperatura)",
+        "Icon": "weather-snow",
+        "Id": "org.tiengo.samsungac",
+        "License": "GPL-2.0+",
+        "Name": "Ar-condicionado Samsung",
+        "Version": "1.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
